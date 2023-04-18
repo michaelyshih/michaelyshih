@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my course
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on three.js
 - 🤔 I’m looking for help with Typescript
